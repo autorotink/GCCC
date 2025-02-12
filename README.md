@@ -12,3 +12,6 @@ I'm currently making my index and studying...I feel like it's taking forever.  H
 [Better GIAC Testing with Pancakes](https://tisiphone.net/2015/08/18/giac-testing/)
 
 Also, after you're done with the grunt-work, have some fun with making a [cover](https://orlybooks.com/)!
+
+## Tools
+- [CIS Controls](https://www.cisecurity.org/controls/cis-controls-list)
