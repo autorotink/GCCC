@@ -24,6 +24,8 @@ I had other priorities, and put off taking the practice exam for a while.
 
 But, I eventually took the practice test, and passed!  (Not with a 100% or anything...but I passed!)  I considered purchasing another practice exam (to get more exposure to the way the questions were asked, etc.) but I think I'll just take the lessons learned from this one and continue on! 
 
+One of the things I've done is put information on the book covers.  There are five books that go into depth into the controls.  It's OK to write information on the covers to help you locate the information during testing...AND (bonus) you are actually reviewing the information some more, so maybe you won't feel the need to search for the answer, you'll just _know_ it!
+
 ## Schedule Test
 I scheduled my test!  Huzzah!  I'm reviewing the objectives that I'm the weakest in (provided to me after my practice exam).
 I'm planning on going to a site to complete my test (instead of being remote).  
